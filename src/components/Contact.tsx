@@ -15,7 +15,7 @@ const Contact = () => {
         <div className="flex items-center mb-4">
           <Mail className="w-6 h-6 mr-4" />
           <a href="mailto:your.email@example.com" className="text-blue-400 hover:underline">
-            your.email@example.com
+            jacazjx@foxmail.com
           </a>
         </div>
         <div className="flex items-center mb-4">
@@ -24,7 +24,7 @@ const Contact = () => {
         </div>
         <div className="flex items-center">
           <MapPin className="w-6 h-6 mr-4" />
-          <span>San Francisco, CA</span>
+          <span>Shenyang, CN</span>
         </div>
       </div>
     </motion.section>

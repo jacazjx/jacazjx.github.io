@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Github, Linkedin, Twitter } from 'lucide-react';
+import { Github, Linkedin, Twitter} from 'lucide-react';
 
 const Header = () => {
   return (
@@ -20,7 +20,7 @@ const Header = () => {
         <nav>
           <ul className="flex space-x-4">
             <motion.li whileHover={{ scale: 1.1 }}>
-              <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/jacazjx" target="_blank" rel="noopener noreferrer">
                 <Github className="w-6 h-6" />
               </a>
             </motion.li>
