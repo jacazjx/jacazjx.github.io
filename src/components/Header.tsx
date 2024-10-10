@@ -15,7 +15,7 @@ const Header = () => {
           whileHover={{ scale: 1.05 }}
           className="text-3xl font-bold"
         >
-          Your Name
+          张家鑫 (Zhang Jiaxin, jaca)
         </motion.h1>
         <nav>
           <ul className="flex space-x-4">
